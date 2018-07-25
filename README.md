@@ -22,6 +22,9 @@ The player with the most 8 matched pairs will win. Player will see the game summ
 
 ## Game Dependency
 [JavaScript](http://stackoverflow.com/a/2450976)
+
 [Fonts and Styles](https://fonts.google.com)
+
 [Stack Overflow - Modal](https://stackoverflow.com/questions/41302241/modal-dialog-with-fixed-header-and-footer-and-scrollable-content)
+
 [Udacity Classroom](https://classroom.udacity.com/me)
